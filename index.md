@@ -1,5 +1,4 @@
 ## Selamat Datang di Anon6372098 GitHub Pages & Repository Project Review
-https://github.com/Anon6372098/anon6372098.github.io/edit/master/index.md
 Ini adalah Website GitHub Pages & Repository Project Review saya. Saya akan mereview Repository Project saya di GitHub dan beberapa Aplikasi saya disini. Jadi, jangan ragu untuk datang kembali :)
 ### Repository Project List
 
