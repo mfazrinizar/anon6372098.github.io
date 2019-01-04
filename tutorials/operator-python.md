@@ -130,7 +130,6 @@ Dari semua operator diatas, masing-masing mempunyai urutan prioritas yang nantin
 
 
 ---
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/operator-python.md)
 
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
