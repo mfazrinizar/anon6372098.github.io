@@ -298,8 +298,6 @@ Selain itu masih ada beberapa operasi sebagai berikut :
 
 Jika Anda menginginkan dokumentasi yang lebih lengkap dari bahasa pemrograman python, silahkan buka dokumentasi resmi dari Python - [Dokumentasi Lengkap Python](https://docs.python.org/3/)
 
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/akses-database-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/object-class-python"><i class="fas fa-arrow-circle-left"></i>Object & Class Python</a>
