@@ -127,8 +127,6 @@ Berikut tabel daftar beberapa modul penting dalam pemrograman Jaringan / Interne
  | Telnet | 	Command lines | 	23 | 	telnetlib | 
  | Gopher | 	Document transfers | 	70	 | gopherlib, urllib | 
 
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/networking-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/akses-database-python"><i class="fas fa-arrow-circle-left"></i>Akses Database Python</a>
