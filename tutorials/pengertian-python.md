@@ -21,7 +21,6 @@ print("Python sangat simpel")
 Hanya dengan menuliskan kode print seperti yang diatas, anda sudah bisa mencetak apapun yang anda inginkan di dalam tanda kurung `()`. Dibagian akhir kode pun, anda tidak harus mengakhirnya dengan tanda semicolon `;` 
 
 ---
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/pengertian-python.md)
 
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
