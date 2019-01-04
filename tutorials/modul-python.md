@@ -33,9 +33,6 @@ import support
 support.print_func("Andy")
 {% endhighlight %}
 
-
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/modul-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/fungsi-python"><i class="fas fa-arrow-circle-left"></i>Fungsi Python</a>
