@@ -107,7 +107,6 @@ Modul ini juga mendefinisikan dua konstanta matematika. Berikut adalah daftarnya
 
 
 ---
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/number-python.md)
 
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
