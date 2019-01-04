@@ -48,8 +48,6 @@ Ketika skrip Python menimbulkan Exception, ia harus menangani Exception begitu s
 | RuntimeError	| 	Dibesarkan saat kesalahan yang dihasilkan tidak termasuk dalam kategori apa pun.	| 
 | NotImplementedError		| Dibesarkan ketika metode abstrak yang perlu diimplementasikan di kelas warisan sebenarnya tidak dilaksanakan.	| 
 
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/exception-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/file-io-python"><i class="fas fa-arrow-circle-left"></i>File I/O Python</a>
