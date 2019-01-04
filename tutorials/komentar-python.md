@@ -39,7 +39,6 @@ print(123)
 Saat anda menjalankan script diatas, Anda akan melihat output berupa `Hello World`, `Budi` dan `123`, karena tulisan/komentar yang ditulis tidak dieksekusi.
 
 ---
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/komentar-python.md)
 
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
