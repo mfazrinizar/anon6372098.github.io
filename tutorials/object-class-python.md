@@ -103,10 +103,6 @@ emp2.displayEmployee()
 print ("Total Employee %d" % Employee.empCount)
 {% endhighlight %}
 
-
-
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/object-class-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/exception-python"><i class="fas fa-arrow-circle-left"></i>Exception Python</a>
