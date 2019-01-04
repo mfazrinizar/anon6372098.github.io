@@ -36,7 +36,6 @@ Langkah ini akan menginstal Python di lokasi standar `/usr/local/bin` dan librar
 4. Ikuti langkah instalasi sampai selesai
 
 ---
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/instalasi-python.md)
 
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
