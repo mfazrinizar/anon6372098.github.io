@@ -178,8 +178,6 @@ Python menyertakan metode built-in berikut untuk memanipulasi string
 | `zfill (width)`	 | 	Mengembalikan string asli yang tertinggal dengan angka nol ke total karakter lebar; Dimaksudkan untuk angka, zfill () mempertahankan tanda apapun yang diberikan (kurang satu nol). | 
 | `isdecimal()`	 | 	Mengembalikan nilai true jika string unicode hanya berisi karakter desimal dan false sebaliknya. | 
 
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/string-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/number-python"><i class="fas fa-arrow-circle-left"></i>Number Python</a>
