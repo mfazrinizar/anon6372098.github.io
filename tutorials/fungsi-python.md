@@ -27,10 +27,6 @@ def printme( str ):
    return
 {% endhighlight %}
 
-
-
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/fungsi-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/tanggal-waktu-python"><i class="fas fa-arrow-circle-left"></i>Tanggal & Waktu Python</a>
