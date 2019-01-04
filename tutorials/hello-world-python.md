@@ -27,7 +27,6 @@ Python bersifat case sensitif, ini artinya huruf besar dan huruf kecil memiliki 
 Aturan ini berlaku untuk nama variabel ataupun fungsi-fungsi lainnya.
 
 ---
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/hello-world-python.md)
 
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
