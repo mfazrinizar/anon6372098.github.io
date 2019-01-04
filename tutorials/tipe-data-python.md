@@ -65,8 +65,6 @@ type(biodata) #fungsi untuk mengecek jenis tipe data. akan tampil <class 'dict'>
 
 ---
 
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/tipe-data-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/komentar-python"><i class="fas fa-arrow-circle-left"></i>Komentar Python</a>
