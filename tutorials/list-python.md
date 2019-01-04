@@ -126,11 +126,6 @@ Python menyertakan methods built-in sebagai berikut
  | list.reverse() | 	Membalik list objek di tempat | 
  | list.sort([func])	 | Urutkan objek list, gunakan compare func jika diberikan | 
 
-
-
-
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/list-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/string-python"><i class="fas fa-arrow-circle-left"></i>String Python</a>
