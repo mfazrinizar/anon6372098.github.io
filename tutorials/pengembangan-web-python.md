@@ -100,10 +100,6 @@ Jalankan server dengan perintah :
 
 Server HTTP Django akan mulai dan jika Anda membuka [http://127.0.0.1:8000/hello/](http://127.0.0.1:8000/hello/)
 
-
-
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/pengembangan-web-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/networking-python"><i class="fas fa-arrow-circle-left"></i>Networking Python</a>
