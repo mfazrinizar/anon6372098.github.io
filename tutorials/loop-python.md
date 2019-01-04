@@ -68,7 +68,6 @@ print "Good bye!"
 {% endhighlight %}
 
 ---
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/loop-python.md)
 
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
