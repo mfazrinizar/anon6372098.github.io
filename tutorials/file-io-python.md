@@ -41,13 +41,6 @@ something:'10' #entered data treated as string with or without ''
 "'10'"
 {% endhighlight %}
 
-
-
-
-
-
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/file-io-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/modul-python"><i class="fas fa-arrow-circle-left"></i>Modul Python</a>
