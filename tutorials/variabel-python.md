@@ -56,7 +56,6 @@ print(luas)
 {% endhighlight %}
 
 ---
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/variabel-python.md)
 
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
