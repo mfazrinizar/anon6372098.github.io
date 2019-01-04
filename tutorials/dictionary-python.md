@@ -89,9 +89,6 @@ Python menyertakan method built-in sebagai berikut :
  | dict.update(dict2) | 	Menambahkan pasangan kunci kata kunci dict2 ke dict | 
  | dict.values() | 	Mengembalikan daftar nilai dictionary | 
 
-
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/dictionary-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/tuple-python"><i class="fas fa-arrow-circle-left"></i>Tuple Python</a>
