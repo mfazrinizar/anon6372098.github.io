@@ -138,8 +138,6 @@ Berikut adalah daftar fungsi yang tersedia dengan modul kalender:
  | calendar.timegm(tupletime) | 	Kebalikan dari time.gmtime: menerima waktu instan dalam bentuk tupel waktu dan mengembalikan detik yang sama seperti jumlah floating-point dalam hitungan detik sejak zaman. | 
  | calendar.weekday(year,month,day)	 | Mengembalikan kode hari kerja untuk tanggal yang ditentukan. Kode hari kerja adalah 0 (Senin) sampai 6 (Minggu); Bulan adalah 1 (Januari) sampai 12 (Desember). | 
 
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/tanggal-waktu-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/dictionary-python"><i class="fas fa-arrow-circle-left"></i>Dictionary Python</a>
