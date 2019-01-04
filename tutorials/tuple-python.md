@@ -118,8 +118,6 @@ Python menyertakan fungsi built-in sebagai berikut
 | `min(tuple)` |		Mengembalikan item dari tuple dengan nilai min. |	
 | `tuple(seq)` |		Mengubah tuple menjadi tuple. |	
 
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/tuple-python.md)
-
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/list-python"><i class="fas fa-arrow-circle-left"></i>List Python</a>
