@@ -1,7 +1,7 @@
 ---
 layout: blank-page
-title: Donate
-permalink: /donate/
+title: Team
+permalink: /team/
 ---
 
 ---
