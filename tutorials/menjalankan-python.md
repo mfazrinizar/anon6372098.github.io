@@ -48,7 +48,6 @@ Untuk menjalankan Python ada banyak cara yang bisa dilakukan. Anda bisa mengguna
 8. Script Python Anda akan dieksekusi/dijalankan.
 
 ---
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/menjalankan-python.md)
 
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
