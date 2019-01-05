@@ -5,6 +5,5 @@ title: Review Project Repository GitHub (Part 1)
 ---
 
 ---
-![](/images/ "")
 
 ### SEGERA DIISI
