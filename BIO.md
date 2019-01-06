@@ -6,8 +6,6 @@ permalink: /tentang-bio/
 
 ---
 
-### Bio Anon6372098
-
 - Nama   : Fazri
 - Nick   : Anon6372098
 - Negara : Indonesia
